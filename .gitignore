@@ -9,3 +9,4 @@ logs/
 /data/
 mlruns/
 MagicMock/
+*.ckpt
